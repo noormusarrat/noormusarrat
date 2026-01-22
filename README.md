@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22d3ee&height=220&section=header&text=Welcome%20to%20My%20Profile!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00E6FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Musarrat+Noor+%F0%9F%91%8B;Aspiring+Full+Stack+Developer;AI+%26+Technology+Enthusiast;Lifelong+Learner+%F0%9F%9A%80" />
 </h1>
@@ -74,3 +78,6 @@
 
 ✨ Thanks for visiting my profile!  
 ⭐ Keep learning • Keep building • Keep growing 🚀  
+## 🐍 Contribution Activity  
+
+![Snake animation](https://github.com/noormusarrat/noormusarrat/blob/output/github-contribution-grid-snake.svg)
