@@ -78,6 +78,8 @@
 
 ✨ Thanks for visiting my profile!  
 ⭐ Keep learning • Keep building • Keep growing 🚀  
+
 ## 🐍 Contribution Activity  
 
-![Snake animation](https://github.com/noormusarrat/noormusarrat/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/noormusarrat/noormusarrat/output/github-contribution-grid-snake.svg)
+
