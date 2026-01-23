@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="800" />
 </p>
-
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00E6FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Musarrat+Noor+%F0%9F%91%8B;Aspiring+Full+Stack+Developer;AI+%26+Technology+Enthusiast;Lifelong+Learner+%F0%9F%9A%80" />
