@@ -60,14 +60,6 @@
 
 ---
 
-## 🏆 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=noormusarrat&theme=onestar&row=1" />
-</p>
-
----
-
 ## 🤝 Connect With Me  
 
 📧 **Email:** noormusarrat123@gmail.com  
