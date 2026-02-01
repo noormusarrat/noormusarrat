@@ -32,7 +32,8 @@
 ---
 
 ## 🌱 Currently Learning  
-
+- Python
+- ReactJs
 - TypeScript  
 - JavaScript  
 - HTML5  
