@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00E6FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Musarrat+Noor+%F0%9F%91%8B;Aspiring+Full+Stack+Developer;AI+%26+Technology+Enthusiast;Lifelong+Learner+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00E6FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Musarrat+Noor+%F0%9F%91%8B;AI+Full+Stack+Developer;Agentic+AI+Project+Builder;Cloud+%26+DevOps+Learner;Lifelong+Learner+%F0%9F%9A%80" />
 </h1>
 
 <p align="center">
@@ -14,38 +14,50 @@
 
 ## 🚀 About Me  
 
-💡 Passionate about technology, programming, and AI tools  
-📚 Constantly learning and improving my development skills  
-🤝 Open to collaboration and teamwork  
-🎯 Goal: Become a professional software developer  
+🤖 AI-focused Full Stack Developer building intelligent web applications  
+📚 Passionate learner exploring Agentic AI, automation, and scalable systems  
+🧠 Experience in chatbot integration and AI-powered tools  
+⚙️ Working with modern backend, authentication, and cloud-native deployments  
+🎯 Goal: Become a professional AI Engineer & System Builder  
 
 ---
 
 ## 👀 Interests  
 
-- Artificial Intelligence  
-- Web Development  
+- Agentic AI & Chatbots  
+- Full Stack Web Development  
+- Cloud Computing & Kubernetes  
 - Educational Technology  
-- Problem Solving  
-- Creative Coding  
+- Automation & Smart Systems  
 
 ---
 
-## 🌱 Currently Learning  
-- Python
-- ReactJs
-- TypeScript  
-- JavaScript  
-- HTML5  
-- CSS3  
+## 🌱 Currently Learning & Working With  
+
+- Python & FastAPI  
+- React.js  
+- TypeScript & JavaScript  
+- AI Chatbot Integration  
+- Authentication (JWT, Better Auth)  
+- Docker & Kubernetes (Minikube, Helm)  
+- SQL Databases & System Design  
 
 ---
 
 ## 🛠️ Tech Stack  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,fastapi,git,github,docker,kubernetes,vscode" />
 </p>
+
+---
+
+## 🧩 Projects Highlights  
+
+📘 AI-powered Web Book with Chatbot Integration  
+📝 Smart Todo Web App with AI Assistant  
+🤖 Agentic AI Experiments using CLI tools and MCP Servers  
+☁️ Local Kubernetes Deployment using Docker Desktop, Helm & Minikube  
 
 ---
 
@@ -70,7 +82,7 @@
 ---
 
 ✨ Thanks for visiting my profile!  
-⭐ Keep learning • Keep building • Keep growing 🚀  
+⭐ Keep Learning • Keep Building • Keep Innovating 🚀  
 
 ## 🐍 Contribution Activity  
 
